@@ -54,7 +54,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Borusov"
-      logoHomeLink = "/SimpleBlog/home"
+      logoHomeLink = ""
     # or
     #
     # path = "/img/logo.svg"
