@@ -1,4 +1,3 @@
-baseURL = 'https://borisovvilyaa.github.io'
 languageCode = 'en-us'
 title = 'Сайт Борисова Іллі'
 theme = "hugo-theme-hello-friend"
