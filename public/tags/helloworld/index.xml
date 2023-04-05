@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>helloworld on Borusov</title>
+    
+    
+    
+    <link>https://borisovvilyaa.github.io/tags/helloworld/</link>
+    <description>Recent content in helloworld on Borusov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2023 09:03:20 -0800</lastBuildDate>
+    
+	<atom:link href="https://borisovvilyaa.github.io/tags/helloworld/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Хеллоу ворл</title>
+      <link>https://borisovvilyaa.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 04 Apr 2023 09:03:20 -0800</pubDate>
+      
+      <guid>https://borisovvilyaa.github.io/posts/my-first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Соу, привіт #  Дарова. Короче, я тут почав вести сайт з моїм не підкупним на авторітетною думкою. Хеллоу ворлд, йопта 🤣
+Детальніше тутоньки 👈
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

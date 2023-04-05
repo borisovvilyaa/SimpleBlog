@@ -1,0 +1,77 @@
+baseURL = 'https://borisovvilyaa.github.io'
+languageCode = 'en-us'
+title = 'Сайт Борисова Іллі'
+theme = "hugo-theme-hello-friend"
+
+[taxonomies]
+  tag="tags"
+
+baseurl = "/home"
+languageCode = "en-us"
+# Add it only if you keep the theme in the `themes` directory.
+# Remove it if you use the theme as a remote Hugo Module.
+
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # OS theme is default when not provided, but you can force it to "light" or "dark"
+  defaultTheme = "dark"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+  # Show table of contents at the top of your posts (defaults to false)
+  # Alternatively, add this param to post front matter for specific posts
+  # toc = true
+
+  # Show full page content in RSS feed items
+  #(default is Description or Summary metadata in the front matter)
+  # rssFullText = true
+
+[languages]
+  [languages.en]
+    title = "Borusov"
+    subtitle = "Blog review"
+    keywords = ""
+    copyright = ""
+    menuMore = "Ще меню"
+    writtenBy = "Автор: "
+    readMore = "Читати далі"
+    readOtherPosts = "Інші постики"
+    newerPosts = "Новіші пости"
+    olderPosts = "СТарі пости"
+    minuteReadingTime = "Хвилина читання"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
+
+    [languages.en.params.logo]
+      logoText = "Borusov"
+      logoHomeLink = "/home"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Лого"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "Ідея сайту 👀"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        name = "Теги"
+        url = "/tags"
+      [[languages.en.menu.main]]
+        identifier = "post"
+        name = "Статті"
+        url = "/posts"
+      
