@@ -21,7 +21,7 @@ paginate = 5
   defaultTheme = "dark"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 4
 
   # Show reading time in minutes for posts
   showReadingTime = false
@@ -73,4 +73,7 @@ paginate = 5
         identifier = "post"
         name = "Статті"
         url = "/posts"
-      
+      [[languages.en.menu.main]]
+        identifier = "telegram"
+        name = "tg"
+        url = "https://t.me/illiaborusov"
