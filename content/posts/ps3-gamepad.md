@@ -19,4 +19,4 @@ description: "Різниця фейкового геймпада та орігі
 
 
 
-![PS3 gamepad](/img/like.jpg "ps3")
+![PS3 gamepad](/SimpleBlog/img/like.jpg "ps3")
